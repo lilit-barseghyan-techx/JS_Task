@@ -21,6 +21,7 @@ console.log(
   }.`
 );
 
+
 // Type Coercion & Comparison
 const ageString = "25";
 const ageNumber = 25;
@@ -46,6 +47,7 @@ if (score >= 90 && score <= 100) {
   console.log("F");
 }
 
+
 //Switch Statements
 const grade = "B";
 
@@ -68,6 +70,7 @@ switch (grade) {
   default:
     console.log("Invalid grade.");
 }
+
 
 //Ternary operator
 const result =
